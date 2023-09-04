@@ -38,4 +38,4 @@ while current_guesses < max_guesses:
     except ValueError:
         print("Invalid input. Please enter a valid number.")
 
-print("Thanks for playing!")
+print("Thank You for playing!")
